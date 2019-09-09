@@ -2,10 +2,9 @@
 
 As far as we can tell, we have completed all requirements of this assignment and tested them successfully on the Oculus Rift in the VR lab.
 
-BONUS POINT: Our bonus room structure is located in Assignment1-2, outside of the laser game room. It was modeled in Blender and has curved walls.
+BONUS POINT: Our bonus room structure is located in Assignment1-2, outside of the laser game room. It was modeled using Blender. The room has 4 walls(2 planar and 2 curved), planar floor and curved roof. The curved surfaces are made using NURBS surface object in Blender.   
 
-We have both contributed to this code in an equitable manner and agree that, to the best
- of our knowledge, it accurately represents our understanding for the assignment.
+We have both contributed to this code in an equitable manner and agree that, to the best of our knowledge, it accurately represents our understanding for the assignment.
 Kylee Fluckiger
 Sneha Bhakare
 CS 6360
