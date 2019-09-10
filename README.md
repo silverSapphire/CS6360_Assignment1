@@ -8,3 +8,6 @@ We have both contributed to this code in an equitable manner and agree that, to 
 Kylee Fluckiger
 Sneha Bhakare
 CS 6360
+
+CITATIONS:
+https://blogs.msdn.microsoft.com/uk_faculty_connection/2014/12/02/adding-xbox-controller-support-and-input-to-your-unity3d-game/ For controlling player movement in the virtual environment via Xbox 360 controller.
